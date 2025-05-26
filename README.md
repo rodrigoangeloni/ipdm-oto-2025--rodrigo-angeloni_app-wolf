@@ -66,5 +66,3 @@ Este proyecto partió de un código base inicial con el objetivo de:
     *   `Shape.kt`: Define las formas personalizadas para los componentes.
 *   `res/`: Contiene recursos como imágenes (drawables), strings, dimensiones, etc.
 *   `build.gradle.kts (Module :app)`: Donde se declaran las dependencias, como `material-icons-extended`.
-
-¡Explora el código y diviértete aprendiendo! 🎉
