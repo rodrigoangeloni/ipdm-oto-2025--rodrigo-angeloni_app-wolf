@@ -13,6 +13,8 @@ La aplicación Woof es un proyecto diseñado para aprender y practicar los conce
 *   🎂 Edad
 *   ❤️ Pasatiempo favorito (¡que puedes expandir y contraer!)
 
+![Captura de pantalla de la aplicación Woof](captura/Screenshot_20250526_174659.png)
+
 ## ✨ Características Implementadas
 
 *   **Interfaz de Usuario Atractiva:** Construida con Jetpack Compose y siguiendo los principios de Material Design 3.
